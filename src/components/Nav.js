@@ -21,9 +21,9 @@ const NavButton = styled.button`
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
     color: #fff;
     font-size: 1.25rem;
-    font-family: verdana;
+    font-family: futura;
     position: absolute;
-    margin: 30px 300px;
+    margin: 30px 450px;
 `;
 
 const Nav = props => {
