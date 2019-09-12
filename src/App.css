@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  background-color: #2f4353;
+  background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+}
+
+p, h1, h2 {
+  font-family: verdana;
+  font-size: 2rem;
+  color: #fff;
+}
+
+h1 {
+  font-size: 2.5rem;
 }
 
 .App-logo {
